@@ -1,0 +1,47 @@
+@media all and (min-width: 480px) {
+	.Login {
+		padding: 60px 0;
+	}
+
+	.Login form {
+		margin: 0 auto;
+		max-width: 320px;
+	}
+}
+.container {
+	min-width: 100% !important;
+	padding: 0 !important;
+	height: 100vh;
+	background: #f8f9fa;
+}
+.container::-webkit-scrollbar {
+	display: none;
+}
+
+.login {
+	color: white;
+	float: right;
+	position: absolute;
+	right: 30px;
+}
+.nav-header {
+	color: white !important;
+	margin-right: 10px;
+}
+.dropdown-toggle {
+	color: white;
+}
+.nav-header1 {
+	color: white;
+	margin-right: 100px !important;
+	font-weight: 800;
+}
+a {
+	color: #0062cc;
+}
+.card {
+	width: 95%;
+	margin: 0 auto;
+	padding: 10px 30px;
+	text-align: left;
+}
